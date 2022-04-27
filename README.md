@@ -1,6 +1,6 @@
 # Exercícios em C#
 
-## Exercícios de Algoritmos em C# >> Usando Visual Studio 2022 ##
+## Exercícios C# ##
 
 <p>Exercício Bônus - Exercício Teste Tech;<p>
 <p>EX01 - Volume caixa;<p>
