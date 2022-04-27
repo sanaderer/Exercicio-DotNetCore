@@ -1,0 +1,15 @@
+C:\Users\PC-000\Desktop\Bonus\bin\Debug\net6.0\Bonus.exe
+C:\Users\PC-000\Desktop\Bonus\bin\Debug\net6.0\Bonus.deps.json
+C:\Users\PC-000\Desktop\Bonus\bin\Debug\net6.0\Bonus.runtimeconfig.json
+C:\Users\PC-000\Desktop\Bonus\bin\Debug\net6.0\Bonus.dll
+C:\Users\PC-000\Desktop\Bonus\bin\Debug\net6.0\Bonus.pdb
+C:\Users\PC-000\Desktop\Bonus\obj\Debug\net6.0\Bonus.csproj.AssemblyReference.cache
+C:\Users\PC-000\Desktop\Bonus\obj\Debug\net6.0\Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-000\Desktop\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfoInputs.cache
+C:\Users\PC-000\Desktop\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfo.cs
+C:\Users\PC-000\Desktop\Bonus\obj\Debug\net6.0\Bonus.csproj.CoreCompileInputs.cache
+C:\Users\PC-000\Desktop\Bonus\obj\Debug\net6.0\Bonus.dll
+C:\Users\PC-000\Desktop\Bonus\obj\Debug\net6.0\refint\Bonus.dll
+C:\Users\PC-000\Desktop\Bonus\obj\Debug\net6.0\Bonus.pdb
+C:\Users\PC-000\Desktop\Bonus\obj\Debug\net6.0\Bonus.genruntimeconfig.cache
+C:\Users\PC-000\Desktop\Bonus\obj\Debug\net6.0\ref\Bonus.dll
