@@ -1,0 +1,15 @@
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\bin\Debug\net6.0\EX10 - Produto e Adição de Frações.exe
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\bin\Debug\net6.0\EX10 - Produto e Adição de Frações.deps.json
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\bin\Debug\net6.0\EX10 - Produto e Adição de Frações.runtimeconfig.json
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\bin\Debug\net6.0\EX10 - Produto e Adição de Frações.dll
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\bin\Debug\net6.0\EX10 - Produto e Adição de Frações.pdb
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\obj\Debug\net6.0\EX10 - Produto e Adição de Frações.csproj.AssemblyReference.cache
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\obj\Debug\net6.0\EX10 - Produto e Adição de Frações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\obj\Debug\net6.0\EX10 - Produto e Adição de Frações.AssemblyInfoInputs.cache
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\obj\Debug\net6.0\EX10 - Produto e Adição de Frações.AssemblyInfo.cs
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\obj\Debug\net6.0\EX10 - Produto e Adição de Frações.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\obj\Debug\net6.0\EX10 - Produto e Adição de Frações.dll
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\obj\Debug\net6.0\refint\EX10 - Produto e Adição de Frações.dll
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\obj\Debug\net6.0\EX10 - Produto e Adição de Frações.pdb
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\obj\Debug\net6.0\EX10 - Produto e Adição de Frações.genruntimeconfig.cache
+C:\Users\Willian\Source\Exercicios C#\EX10 - Produto e Adição de Frações\obj\Debug\net6.0\ref\EX10 - Produto e Adição de Frações.dll

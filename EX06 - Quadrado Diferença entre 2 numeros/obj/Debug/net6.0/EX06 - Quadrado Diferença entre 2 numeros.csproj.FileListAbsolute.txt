@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\bin\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.exe
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\bin\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.deps.json
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\bin\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\bin\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.dll
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\bin\Debug\net6.0\ref\EX06 - Quadrado Diferença entre 2 numeros.dll
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\bin\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.pdb
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\obj\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\obj\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\obj\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\obj\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\obj\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\obj\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.dll
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\obj\Debug\net6.0\ref\EX06 - Quadrado Diferença entre 2 numeros.dll
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\obj\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.pdb
+C:\Users\Willian\Exercicios C#\EX06 - Quadrado Diferença entre 2 numeros\obj\Debug\net6.0\EX06 - Quadrado Diferença entre 2 numeros.genruntimeconfig.cache

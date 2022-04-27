@@ -1,0 +1,5 @@
+C:\Users\Willian\Exercicios C#\EX13 - Media Harmonica Notas Aluno\obj\Debug\net6.0\EX13 - Media Harmonica Notas Aluno.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX13 - Media Harmonica Notas Aluno\obj\Debug\net6.0\EX13 - Media Harmonica Notas Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX13 - Media Harmonica Notas Aluno\obj\Debug\net6.0\EX13 - Media Harmonica Notas Aluno.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX13 - Media Harmonica Notas Aluno\obj\Debug\net6.0\EX13 - Media Harmonica Notas Aluno.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX13 - Media Harmonica Notas Aluno\obj\Debug\net6.0\EX13 - Media Harmonica Notas Aluno.csproj.CoreCompileInputs.cache

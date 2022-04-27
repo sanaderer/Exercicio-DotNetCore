@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\bin\Debug\net6.0\Numeros Compara Altera Valores.exe
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\bin\Debug\net6.0\Numeros Compara Altera Valores.deps.json
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\bin\Debug\net6.0\Numeros Compara Altera Valores.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\bin\Debug\net6.0\Numeros Compara Altera Valores.dll
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\bin\Debug\net6.0\Numeros Compara Altera Valores.pdb
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\obj\Debug\net6.0\Numeros Compara Altera Valores.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\obj\Debug\net6.0\Numeros Compara Altera Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\obj\Debug\net6.0\Numeros Compara Altera Valores.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\obj\Debug\net6.0\Numeros Compara Altera Valores.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\obj\Debug\net6.0\Numeros Compara Altera Valores.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\obj\Debug\net6.0\Numeros Compara Altera Valores.dll
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\obj\Debug\net6.0\refint\Numeros Compara Altera Valores.dll
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\obj\Debug\net6.0\Numeros Compara Altera Valores.pdb
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\obj\Debug\net6.0\Numeros Compara Altera Valores.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX33 - Numeros Compara Altera Valores\Numeros Compara Altera Valores\obj\Debug\net6.0\ref\Numeros Compara Altera Valores.dll

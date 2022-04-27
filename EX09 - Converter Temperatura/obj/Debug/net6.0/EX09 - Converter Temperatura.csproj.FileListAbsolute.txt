@@ -1,0 +1,15 @@
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\bin\Debug\net6.0\EX09 - Converter Temperatura.exe
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\bin\Debug\net6.0\EX09 - Converter Temperatura.deps.json
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\bin\Debug\net6.0\EX09 - Converter Temperatura.runtimeconfig.json
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\bin\Debug\net6.0\EX09 - Converter Temperatura.dll
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\bin\Debug\net6.0\EX09 - Converter Temperatura.pdb
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\obj\Debug\net6.0\EX09 - Converter Temperatura.csproj.AssemblyReference.cache
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\obj\Debug\net6.0\EX09 - Converter Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\obj\Debug\net6.0\EX09 - Converter Temperatura.AssemblyInfoInputs.cache
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\obj\Debug\net6.0\EX09 - Converter Temperatura.AssemblyInfo.cs
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\obj\Debug\net6.0\EX09 - Converter Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\obj\Debug\net6.0\EX09 - Converter Temperatura.dll
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\obj\Debug\net6.0\refint\EX09 - Converter Temperatura.dll
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\obj\Debug\net6.0\EX09 - Converter Temperatura.pdb
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\obj\Debug\net6.0\EX09 - Converter Temperatura.genruntimeconfig.cache
+C:\Users\Willian\Source\Exercicios C#\EX09 - Converter Temperatura\obj\Debug\net6.0\ref\EX09 - Converter Temperatura.dll

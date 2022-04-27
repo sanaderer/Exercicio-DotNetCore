@@ -1,0 +1,15 @@
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\obj\Debug\net6.0\EX08 - Volume Esfera.csproj.AssemblyReference.cache
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\obj\Debug\net6.0\EX08 - Volume Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\obj\Debug\net6.0\EX08 - Volume Esfera.AssemblyInfoInputs.cache
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\obj\Debug\net6.0\EX08 - Volume Esfera.AssemblyInfo.cs
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\obj\Debug\net6.0\EX08 - Volume Esfera.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\bin\Debug\net6.0\EX08 - Volume Esfera.exe
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\bin\Debug\net6.0\EX08 - Volume Esfera.deps.json
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\bin\Debug\net6.0\EX08 - Volume Esfera.runtimeconfig.json
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\bin\Debug\net6.0\EX08 - Volume Esfera.dll
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\bin\Debug\net6.0\EX08 - Volume Esfera.pdb
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\obj\Debug\net6.0\EX08 - Volume Esfera.dll
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\obj\Debug\net6.0\refint\EX08 - Volume Esfera.dll
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\obj\Debug\net6.0\EX08 - Volume Esfera.pdb
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\obj\Debug\net6.0\EX08 - Volume Esfera.genruntimeconfig.cache
+C:\Users\Willian\Source\Exercicios C#\EX08 - Volume Esfera\obj\Debug\net6.0\ref\EX08 - Volume Esfera.dll

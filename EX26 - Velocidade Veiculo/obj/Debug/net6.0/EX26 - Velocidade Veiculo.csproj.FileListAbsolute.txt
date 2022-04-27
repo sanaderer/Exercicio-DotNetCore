@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\bin\Debug\net6.0\EX26 - Velocidade Veiculo.exe
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\bin\Debug\net6.0\EX26 - Velocidade Veiculo.deps.json
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\bin\Debug\net6.0\EX26 - Velocidade Veiculo.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\bin\Debug\net6.0\EX26 - Velocidade Veiculo.dll
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\bin\Debug\net6.0\EX26 - Velocidade Veiculo.pdb
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\obj\Debug\net6.0\EX26 - Velocidade Veiculo.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\obj\Debug\net6.0\EX26 - Velocidade Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\obj\Debug\net6.0\EX26 - Velocidade Veiculo.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\obj\Debug\net6.0\EX26 - Velocidade Veiculo.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\obj\Debug\net6.0\EX26 - Velocidade Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\obj\Debug\net6.0\EX26 - Velocidade Veiculo.dll
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\obj\Debug\net6.0\refint\EX26 - Velocidade Veiculo.dll
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\obj\Debug\net6.0\EX26 - Velocidade Veiculo.pdb
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\obj\Debug\net6.0\EX26 - Velocidade Veiculo.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX26 - Velocidade Veiculo\obj\Debug\net6.0\ref\EX26 - Velocidade Veiculo.dll

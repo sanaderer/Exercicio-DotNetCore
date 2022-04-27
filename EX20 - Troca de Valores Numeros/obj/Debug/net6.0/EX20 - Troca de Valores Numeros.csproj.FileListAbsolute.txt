@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\bin\Debug\net6.0\EX20 - Troca de Valores Numeros.exe
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\bin\Debug\net6.0\EX20 - Troca de Valores Numeros.deps.json
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\bin\Debug\net6.0\EX20 - Troca de Valores Numeros.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\bin\Debug\net6.0\EX20 - Troca de Valores Numeros.dll
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\bin\Debug\net6.0\EX20 - Troca de Valores Numeros.pdb
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\obj\Debug\net6.0\EX20 - Troca de Valores Numeros.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\obj\Debug\net6.0\EX20 - Troca de Valores Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\obj\Debug\net6.0\EX20 - Troca de Valores Numeros.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\obj\Debug\net6.0\EX20 - Troca de Valores Numeros.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\obj\Debug\net6.0\EX20 - Troca de Valores Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\obj\Debug\net6.0\EX20 - Troca de Valores Numeros.dll
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\obj\Debug\net6.0\refint\EX20 - Troca de Valores Numeros.dll
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\obj\Debug\net6.0\EX20 - Troca de Valores Numeros.pdb
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\obj\Debug\net6.0\EX20 - Troca de Valores Numeros.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX20 - Troca de Valores Numeros\obj\Debug\net6.0\ref\EX20 - Troca de Valores Numeros.dll

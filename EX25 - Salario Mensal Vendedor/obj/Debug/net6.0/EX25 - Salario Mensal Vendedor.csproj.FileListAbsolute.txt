@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\bin\Debug\net6.0\EX25 - Salario Mensal Vendedor.exe
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\bin\Debug\net6.0\EX25 - Salario Mensal Vendedor.deps.json
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\bin\Debug\net6.0\EX25 - Salario Mensal Vendedor.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\bin\Debug\net6.0\EX25 - Salario Mensal Vendedor.dll
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\bin\Debug\net6.0\EX25 - Salario Mensal Vendedor.pdb
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\obj\Debug\net6.0\EX25 - Salario Mensal Vendedor.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\obj\Debug\net6.0\EX25 - Salario Mensal Vendedor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\obj\Debug\net6.0\EX25 - Salario Mensal Vendedor.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\obj\Debug\net6.0\EX25 - Salario Mensal Vendedor.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\obj\Debug\net6.0\EX25 - Salario Mensal Vendedor.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\obj\Debug\net6.0\EX25 - Salario Mensal Vendedor.dll
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\obj\Debug\net6.0\refint\EX25 - Salario Mensal Vendedor.dll
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\obj\Debug\net6.0\EX25 - Salario Mensal Vendedor.pdb
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\obj\Debug\net6.0\EX25 - Salario Mensal Vendedor.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX25 - Salario Mensal Vendedor\obj\Debug\net6.0\ref\EX25 - Salario Mensal Vendedor.dll

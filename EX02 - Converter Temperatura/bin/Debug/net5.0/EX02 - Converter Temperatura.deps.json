@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EX02 - Converter Temperatura/1.0.0": {
+        "runtime": {
+          "EX02 - Converter Temperatura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX02 - Converter Temperatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

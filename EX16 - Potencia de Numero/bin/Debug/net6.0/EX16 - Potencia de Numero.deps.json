@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EX16 - Potencia de Numero/1.0.0": {
+        "runtime": {
+          "EX16 - Potencia de Numero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX16 - Potencia de Numero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

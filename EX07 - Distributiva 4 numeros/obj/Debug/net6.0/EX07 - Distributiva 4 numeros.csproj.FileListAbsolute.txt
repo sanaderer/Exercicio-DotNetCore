@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\obj\Debug\net6.0\EX07 - Distributiva 4 numeros.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\obj\Debug\net6.0\EX07 - Distributiva 4 numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\obj\Debug\net6.0\EX07 - Distributiva 4 numeros.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\obj\Debug\net6.0\EX07 - Distributiva 4 numeros.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\obj\Debug\net6.0\EX07 - Distributiva 4 numeros.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\bin\Debug\net6.0\EX07 - Distributiva 4 numeros.exe
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\bin\Debug\net6.0\EX07 - Distributiva 4 numeros.deps.json
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\bin\Debug\net6.0\EX07 - Distributiva 4 numeros.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\bin\Debug\net6.0\EX07 - Distributiva 4 numeros.dll
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\bin\Debug\net6.0\ref\EX07 - Distributiva 4 numeros.dll
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\bin\Debug\net6.0\EX07 - Distributiva 4 numeros.pdb
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\obj\Debug\net6.0\EX07 - Distributiva 4 numeros.dll
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\obj\Debug\net6.0\ref\EX07 - Distributiva 4 numeros.dll
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\obj\Debug\net6.0\EX07 - Distributiva 4 numeros.pdb
+C:\Users\Willian\Exercicios C#\EX07 - Distributiva 4 numeros\obj\Debug\net6.0\EX07 - Distributiva 4 numeros.genruntimeconfig.cache

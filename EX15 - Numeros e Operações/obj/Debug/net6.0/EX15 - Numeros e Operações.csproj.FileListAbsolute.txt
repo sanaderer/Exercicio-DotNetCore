@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\bin\Debug\net6.0\EX15 - Numeros e Operações.exe
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\bin\Debug\net6.0\EX15 - Numeros e Operações.deps.json
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\bin\Debug\net6.0\EX15 - Numeros e Operações.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\bin\Debug\net6.0\EX15 - Numeros e Operações.dll
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\bin\Debug\net6.0\EX15 - Numeros e Operações.pdb
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\obj\Debug\net6.0\EX15 - Numeros e Operações.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\obj\Debug\net6.0\EX15 - Numeros e Operações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\obj\Debug\net6.0\EX15 - Numeros e Operações.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\obj\Debug\net6.0\EX15 - Numeros e Operações.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\obj\Debug\net6.0\EX15 - Numeros e Operações.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\obj\Debug\net6.0\EX15 - Numeros e Operações.dll
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\obj\Debug\net6.0\refint\EX15 - Numeros e Operações.dll
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\obj\Debug\net6.0\EX15 - Numeros e Operações.pdb
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\obj\Debug\net6.0\EX15 - Numeros e Operações.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX15 - Numeros e Operações\obj\Debug\net6.0\ref\EX15 - Numeros e Operações.dll

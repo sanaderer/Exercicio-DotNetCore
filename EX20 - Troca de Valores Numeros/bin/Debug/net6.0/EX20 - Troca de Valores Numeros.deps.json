@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EX20 - Troca de Valores Numeros/1.0.0": {
+        "runtime": {
+          "EX20 - Troca de Valores Numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX20 - Troca de Valores Numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

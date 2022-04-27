@@ -1,0 +1,16 @@
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\obj\Debug\net5.0\EX01 - Volume Caixa.csproj.AssemblyReference.cache
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\obj\Debug\net5.0\EX01 - Volume Caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\obj\Debug\net5.0\EX01 - Volume Caixa.AssemblyInfoInputs.cache
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\obj\Debug\net5.0\EX01 - Volume Caixa.AssemblyInfo.cs
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\obj\Debug\net5.0\EX01 - Volume Caixa.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\bin\Debug\net5.0\EX01 - Volume Caixa.exe
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\bin\Debug\net5.0\EX01 - Volume Caixa.deps.json
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\bin\Debug\net5.0\EX01 - Volume Caixa.runtimeconfig.json
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\bin\Debug\net5.0\EX01 - Volume Caixa.runtimeconfig.dev.json
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\bin\Debug\net5.0\EX01 - Volume Caixa.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\bin\Debug\net5.0\ref\EX01 - Volume Caixa.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\bin\Debug\net5.0\EX01 - Volume Caixa.pdb
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\obj\Debug\net5.0\EX01 - Volume Caixa.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\obj\Debug\net5.0\ref\EX01 - Volume Caixa.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\obj\Debug\net5.0\EX01 - Volume Caixa.pdb
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX01 - Volume Caixa\obj\Debug\net5.0\EX01 - Volume Caixa.genruntimeconfig.cache

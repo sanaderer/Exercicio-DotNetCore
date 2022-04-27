@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\bin\Debug\net6.0\Aprovado_Reprovado.exe
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\bin\Debug\net6.0\Aprovado_Reprovado.deps.json
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\bin\Debug\net6.0\Aprovado_Reprovado.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\bin\Debug\net6.0\Aprovado_Reprovado.dll
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\bin\Debug\net6.0\Aprovado_Reprovado.pdb
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\net6.0\Aprovado_Reprovado.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\net6.0\Aprovado_Reprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\net6.0\Aprovado_Reprovado.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\net6.0\Aprovado_Reprovado.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\net6.0\Aprovado_Reprovado.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\net6.0\Aprovado_Reprovado.dll
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\net6.0\refint\Aprovado_Reprovado.dll
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\net6.0\Aprovado_Reprovado.pdb
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\net6.0\Aprovado_Reprovado.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX32 - Aluno Aprovado ou Reprovado\Aprovado_Reprovado\Aprovado_Reprovado\obj\Debug\net6.0\ref\Aprovado_Reprovado.dll

@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\bin\Debug\net6.0\EX29 - Medidas Formam Triangulo.exe
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\bin\Debug\net6.0\EX29 - Medidas Formam Triangulo.deps.json
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\bin\Debug\net6.0\EX29 - Medidas Formam Triangulo.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\bin\Debug\net6.0\EX29 - Medidas Formam Triangulo.dll
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\bin\Debug\net6.0\EX29 - Medidas Formam Triangulo.pdb
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\obj\Debug\net6.0\EX29 - Medidas Formam Triangulo.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\obj\Debug\net6.0\EX29 - Medidas Formam Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\obj\Debug\net6.0\EX29 - Medidas Formam Triangulo.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\obj\Debug\net6.0\EX29 - Medidas Formam Triangulo.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\obj\Debug\net6.0\EX29 - Medidas Formam Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\obj\Debug\net6.0\EX29 - Medidas Formam Triangulo.dll
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\obj\Debug\net6.0\refint\EX29 - Medidas Formam Triangulo.dll
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\obj\Debug\net6.0\EX29 - Medidas Formam Triangulo.pdb
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\obj\Debug\net6.0\EX29 - Medidas Formam Triangulo.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX29 - Medidas Formam Triangulo\obj\Debug\net6.0\ref\EX29 - Medidas Formam Triangulo.dll

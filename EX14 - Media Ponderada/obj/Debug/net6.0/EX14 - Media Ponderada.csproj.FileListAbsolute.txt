@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\bin\Debug\net6.0\EX14 - Media Ponderada.exe
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\bin\Debug\net6.0\EX14 - Media Ponderada.deps.json
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\bin\Debug\net6.0\EX14 - Media Ponderada.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\bin\Debug\net6.0\EX14 - Media Ponderada.dll
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\bin\Debug\net6.0\EX14 - Media Ponderada.pdb
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\obj\Debug\net6.0\EX14 - Media Ponderada.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\obj\Debug\net6.0\EX14 - Media Ponderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\obj\Debug\net6.0\EX14 - Media Ponderada.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\obj\Debug\net6.0\EX14 - Media Ponderada.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\obj\Debug\net6.0\EX14 - Media Ponderada.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\obj\Debug\net6.0\EX14 - Media Ponderada.dll
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\obj\Debug\net6.0\refint\EX14 - Media Ponderada.dll
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\obj\Debug\net6.0\EX14 - Media Ponderada.pdb
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\obj\Debug\net6.0\EX14 - Media Ponderada.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX14 - Media Ponderada\obj\Debug\net6.0\ref\EX14 - Media Ponderada.dll

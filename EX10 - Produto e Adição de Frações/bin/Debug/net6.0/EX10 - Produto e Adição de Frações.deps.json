@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EX10 - Produto e Adição de Frações/1.0.0": {
+        "runtime": {
+          "EX10 - Produto e Adição de Frações.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX10 - Produto e Adição de Frações/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

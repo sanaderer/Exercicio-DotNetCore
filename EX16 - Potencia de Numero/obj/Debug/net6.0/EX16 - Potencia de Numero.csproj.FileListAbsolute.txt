@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\obj\Debug\net6.0\EX16 - Potencia de Numero.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\obj\Debug\net6.0\EX16 - Potencia de Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\obj\Debug\net6.0\EX16 - Potencia de Numero.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\obj\Debug\net6.0\EX16 - Potencia de Numero.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\obj\Debug\net6.0\EX16 - Potencia de Numero.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\bin\Debug\net6.0\EX16 - Potencia de Numero.exe
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\bin\Debug\net6.0\EX16 - Potencia de Numero.deps.json
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\bin\Debug\net6.0\EX16 - Potencia de Numero.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\bin\Debug\net6.0\EX16 - Potencia de Numero.dll
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\bin\Debug\net6.0\EX16 - Potencia de Numero.pdb
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\obj\Debug\net6.0\EX16 - Potencia de Numero.dll
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\obj\Debug\net6.0\refint\EX16 - Potencia de Numero.dll
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\obj\Debug\net6.0\EX16 - Potencia de Numero.pdb
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\obj\Debug\net6.0\EX16 - Potencia de Numero.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX16 - Potencia de Numero\obj\Debug\net6.0\ref\EX16 - Potencia de Numero.dll

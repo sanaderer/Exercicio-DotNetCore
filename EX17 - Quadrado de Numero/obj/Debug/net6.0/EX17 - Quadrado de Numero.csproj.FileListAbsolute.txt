@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\bin\Debug\net6.0\EX17 - Quadrado de Numero.exe
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\bin\Debug\net6.0\EX17 - Quadrado de Numero.deps.json
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\bin\Debug\net6.0\EX17 - Quadrado de Numero.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\bin\Debug\net6.0\EX17 - Quadrado de Numero.dll
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\bin\Debug\net6.0\EX17 - Quadrado de Numero.pdb
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\obj\Debug\net6.0\EX17 - Quadrado de Numero.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\obj\Debug\net6.0\EX17 - Quadrado de Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\obj\Debug\net6.0\EX17 - Quadrado de Numero.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\obj\Debug\net6.0\EX17 - Quadrado de Numero.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\obj\Debug\net6.0\EX17 - Quadrado de Numero.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\obj\Debug\net6.0\EX17 - Quadrado de Numero.dll
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\obj\Debug\net6.0\refint\EX17 - Quadrado de Numero.dll
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\obj\Debug\net6.0\EX17 - Quadrado de Numero.pdb
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\obj\Debug\net6.0\EX17 - Quadrado de Numero.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX17 - Quadrado de Numero\obj\Debug\net6.0\ref\EX17 - Quadrado de Numero.dll

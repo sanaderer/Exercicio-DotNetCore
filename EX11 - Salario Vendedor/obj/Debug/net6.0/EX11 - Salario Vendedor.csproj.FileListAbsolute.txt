@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\obj\Debug\net6.0\EX11 - Salario Vendedor.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\obj\Debug\net6.0\EX11 - Salario Vendedor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\obj\Debug\net6.0\EX11 - Salario Vendedor.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\obj\Debug\net6.0\EX11 - Salario Vendedor.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\obj\Debug\net6.0\EX11 - Salario Vendedor.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\bin\Debug\net6.0\EX11 - Salario Vendedor.exe
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\bin\Debug\net6.0\EX11 - Salario Vendedor.deps.json
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\bin\Debug\net6.0\EX11 - Salario Vendedor.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\bin\Debug\net6.0\EX11 - Salario Vendedor.dll
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\bin\Debug\net6.0\ref\EX11 - Salario Vendedor.dll
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\bin\Debug\net6.0\EX11 - Salario Vendedor.pdb
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\obj\Debug\net6.0\EX11 - Salario Vendedor.dll
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\obj\Debug\net6.0\ref\EX11 - Salario Vendedor.dll
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\obj\Debug\net6.0\EX11 - Salario Vendedor.pdb
+C:\Users\Willian\Exercicios C#\EX11 - Salario Vendedor\obj\Debug\net6.0\EX11 - Salario Vendedor.genruntimeconfig.cache

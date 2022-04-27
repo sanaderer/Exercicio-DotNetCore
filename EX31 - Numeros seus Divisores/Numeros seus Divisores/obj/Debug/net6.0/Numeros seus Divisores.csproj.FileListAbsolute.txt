@@ -1,0 +1,15 @@
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\bin\Debug\net6.0\Numeros seus Divisores.exe
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\bin\Debug\net6.0\Numeros seus Divisores.deps.json
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\bin\Debug\net6.0\Numeros seus Divisores.runtimeconfig.json
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\bin\Debug\net6.0\Numeros seus Divisores.dll
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\bin\Debug\net6.0\Numeros seus Divisores.pdb
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\obj\Debug\net6.0\Numeros seus Divisores.csproj.AssemblyReference.cache
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\obj\Debug\net6.0\Numeros seus Divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\obj\Debug\net6.0\Numeros seus Divisores.AssemblyInfoInputs.cache
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\obj\Debug\net6.0\Numeros seus Divisores.AssemblyInfo.cs
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\obj\Debug\net6.0\Numeros seus Divisores.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\obj\Debug\net6.0\Numeros seus Divisores.dll
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\obj\Debug\net6.0\refint\Numeros seus Divisores.dll
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\obj\Debug\net6.0\Numeros seus Divisores.pdb
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\obj\Debug\net6.0\Numeros seus Divisores.genruntimeconfig.cache
+C:\Users\Willian\Curso .NET\Asp .NET Core - Modulo 2\Numeros seus Divisores\Numeros seus Divisores\obj\Debug\net6.0\ref\Numeros seus Divisores.dll

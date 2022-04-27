@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EX27 - Verifica Numero Informado/1.0.0": {
+        "runtime": {
+          "EX27 - Verifica Numero Informado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX27 - Verifica Numero Informado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\obj\Debug\net6.0\EX30 - Numeros e Diferenças.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\obj\Debug\net6.0\EX30 - Numeros e Diferenças.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\obj\Debug\net6.0\EX30 - Numeros e Diferenças.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\obj\Debug\net6.0\EX30 - Numeros e Diferenças.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\obj\Debug\net6.0\EX30 - Numeros e Diferenças.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\bin\Debug\net6.0\EX30 - Numeros e Diferenças.exe
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\bin\Debug\net6.0\EX30 - Numeros e Diferenças.deps.json
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\bin\Debug\net6.0\EX30 - Numeros e Diferenças.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\bin\Debug\net6.0\EX30 - Numeros e Diferenças.dll
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\bin\Debug\net6.0\EX30 - Numeros e Diferenças.pdb
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\obj\Debug\net6.0\EX30 - Numeros e Diferenças.dll
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\obj\Debug\net6.0\refint\EX30 - Numeros e Diferenças.dll
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\obj\Debug\net6.0\EX30 - Numeros e Diferenças.pdb
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\obj\Debug\net6.0\EX30 - Numeros e Diferenças.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX30 - Numeros e Diferenças\obj\Debug\net6.0\ref\EX30 - Numeros e Diferenças.dll

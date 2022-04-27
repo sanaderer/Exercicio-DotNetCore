@@ -1,0 +1,16 @@
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\bin\Debug\net5.0\EX05 - Consumo Combustivel.exe
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\bin\Debug\net5.0\EX05 - Consumo Combustivel.deps.json
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\bin\Debug\net5.0\EX05 - Consumo Combustivel.runtimeconfig.json
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\bin\Debug\net5.0\EX05 - Consumo Combustivel.runtimeconfig.dev.json
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\bin\Debug\net5.0\EX05 - Consumo Combustivel.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\bin\Debug\net5.0\ref\EX05 - Consumo Combustivel.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\bin\Debug\net5.0\EX05 - Consumo Combustivel.pdb
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\obj\Debug\net5.0\EX05 - Consumo Combustivel.csproj.AssemblyReference.cache
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\obj\Debug\net5.0\EX05 - Consumo Combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\obj\Debug\net5.0\EX05 - Consumo Combustivel.AssemblyInfoInputs.cache
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\obj\Debug\net5.0\EX05 - Consumo Combustivel.AssemblyInfo.cs
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\obj\Debug\net5.0\EX05 - Consumo Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\obj\Debug\net5.0\EX05 - Consumo Combustivel.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\obj\Debug\net5.0\ref\EX05 - Consumo Combustivel.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\obj\Debug\net5.0\EX05 - Consumo Combustivel.pdb
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX05 - Consumo Combustivel\obj\Debug\net5.0\EX05 - Consumo Combustivel.genruntimeconfig.cache

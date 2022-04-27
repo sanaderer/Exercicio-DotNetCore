@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\bin\Debug\net6.0\EX24 - Salario Funcionario.exe
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\bin\Debug\net6.0\EX24 - Salario Funcionario.deps.json
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\bin\Debug\net6.0\EX24 - Salario Funcionario.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\bin\Debug\net6.0\EX24 - Salario Funcionario.dll
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\bin\Debug\net6.0\EX24 - Salario Funcionario.pdb
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\obj\Debug\net6.0\EX24 - Salario Funcionario.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\obj\Debug\net6.0\EX24 - Salario Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\obj\Debug\net6.0\EX24 - Salario Funcionario.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\obj\Debug\net6.0\EX24 - Salario Funcionario.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\obj\Debug\net6.0\EX24 - Salario Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\obj\Debug\net6.0\EX24 - Salario Funcionario.dll
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\obj\Debug\net6.0\refint\EX24 - Salario Funcionario.dll
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\obj\Debug\net6.0\EX24 - Salario Funcionario.pdb
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\obj\Debug\net6.0\EX24 - Salario Funcionario.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX24 - Salario Funcionario\obj\Debug\net6.0\ref\EX24 - Salario Funcionario.dll

@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\bin\Debug\net6.0\EX21 - Area Triangulo.exe
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\bin\Debug\net6.0\EX21 - Area Triangulo.deps.json
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\bin\Debug\net6.0\EX21 - Area Triangulo.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\bin\Debug\net6.0\EX21 - Area Triangulo.dll
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\bin\Debug\net6.0\EX21 - Area Triangulo.pdb
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\obj\Debug\net6.0\EX21 - Area Triangulo.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\obj\Debug\net6.0\EX21 - Area Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\obj\Debug\net6.0\EX21 - Area Triangulo.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\obj\Debug\net6.0\EX21 - Area Triangulo.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\obj\Debug\net6.0\EX21 - Area Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\obj\Debug\net6.0\EX21 - Area Triangulo.dll
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\obj\Debug\net6.0\refint\EX21 - Area Triangulo.dll
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\obj\Debug\net6.0\EX21 - Area Triangulo.pdb
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\obj\Debug\net6.0\EX21 - Area Triangulo.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX21 - Area Triangulo\obj\Debug\net6.0\ref\EX21 - Area Triangulo.dll

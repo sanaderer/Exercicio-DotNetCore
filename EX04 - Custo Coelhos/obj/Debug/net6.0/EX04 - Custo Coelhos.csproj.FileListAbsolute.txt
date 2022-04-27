@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\bin\Debug\net6.0\EX04 - Custo Coelhos.exe
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\bin\Debug\net6.0\EX04 - Custo Coelhos.deps.json
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\bin\Debug\net6.0\EX04 - Custo Coelhos.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\bin\Debug\net6.0\EX04 - Custo Coelhos.dll
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\bin\Debug\net6.0\ref\EX04 - Custo Coelhos.dll
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\bin\Debug\net6.0\EX04 - Custo Coelhos.pdb
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\obj\Debug\net6.0\EX04 - Custo Coelhos.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\obj\Debug\net6.0\EX04 - Custo Coelhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\obj\Debug\net6.0\EX04 - Custo Coelhos.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\obj\Debug\net6.0\EX04 - Custo Coelhos.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\obj\Debug\net6.0\EX04 - Custo Coelhos.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\obj\Debug\net6.0\EX04 - Custo Coelhos.dll
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\obj\Debug\net6.0\ref\EX04 - Custo Coelhos.dll
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\obj\Debug\net6.0\EX04 - Custo Coelhos.pdb
+C:\Users\Willian\Exercicios C#\EX04 - Custo Coelhos\obj\Debug\net6.0\EX04 - Custo Coelhos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\bin\Debug\net6.0\EX27 - Verifica Numero Informado.exe
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\bin\Debug\net6.0\EX27 - Verifica Numero Informado.deps.json
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\bin\Debug\net6.0\EX27 - Verifica Numero Informado.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\bin\Debug\net6.0\EX27 - Verifica Numero Informado.dll
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\bin\Debug\net6.0\EX27 - Verifica Numero Informado.pdb
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\obj\Debug\net6.0\EX27 - Verifica Numero Informado.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\obj\Debug\net6.0\EX27 - Verifica Numero Informado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\obj\Debug\net6.0\EX27 - Verifica Numero Informado.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\obj\Debug\net6.0\EX27 - Verifica Numero Informado.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\obj\Debug\net6.0\EX27 - Verifica Numero Informado.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\obj\Debug\net6.0\EX27 - Verifica Numero Informado.dll
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\obj\Debug\net6.0\refint\EX27 - Verifica Numero Informado.dll
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\obj\Debug\net6.0\EX27 - Verifica Numero Informado.pdb
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\obj\Debug\net6.0\EX27 - Verifica Numero Informado.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX27 - Verifica Numero Informado\obj\Debug\net6.0\ref\EX27 - Verifica Numero Informado.dll

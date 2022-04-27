@@ -1,0 +1,16 @@
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\bin\Debug\net5.0\EX02 - Converter Temperatura.exe
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\bin\Debug\net5.0\EX02 - Converter Temperatura.deps.json
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\bin\Debug\net5.0\EX02 - Converter Temperatura.runtimeconfig.json
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\bin\Debug\net5.0\EX02 - Converter Temperatura.runtimeconfig.dev.json
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\bin\Debug\net5.0\EX02 - Converter Temperatura.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\bin\Debug\net5.0\ref\EX02 - Converter Temperatura.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\bin\Debug\net5.0\EX02 - Converter Temperatura.pdb
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\obj\Debug\net5.0\EX02 - Converter Temperatura.csproj.AssemblyReference.cache
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\obj\Debug\net5.0\EX02 - Converter Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\obj\Debug\net5.0\EX02 - Converter Temperatura.AssemblyInfoInputs.cache
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\obj\Debug\net5.0\EX02 - Converter Temperatura.AssemblyInfo.cs
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\obj\Debug\net5.0\EX02 - Converter Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\obj\Debug\net5.0\EX02 - Converter Temperatura.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\obj\Debug\net5.0\ref\EX02 - Converter Temperatura.dll
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\obj\Debug\net5.0\EX02 - Converter Temperatura.pdb
+C:\Users\Willian\Repositorio_C#\Exercicios C#\EX02 - Converter Temperatura\obj\Debug\net5.0\EX02 - Converter Temperatura.genruntimeconfig.cache

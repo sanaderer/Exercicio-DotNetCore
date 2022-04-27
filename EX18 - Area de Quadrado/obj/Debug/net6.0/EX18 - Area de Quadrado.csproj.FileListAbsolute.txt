@@ -1,0 +1,15 @@
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\bin\Debug\net6.0\EX18 - Area de Quadrado.exe
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\bin\Debug\net6.0\EX18 - Area de Quadrado.deps.json
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\bin\Debug\net6.0\EX18 - Area de Quadrado.runtimeconfig.json
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\bin\Debug\net6.0\EX18 - Area de Quadrado.dll
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\bin\Debug\net6.0\EX18 - Area de Quadrado.pdb
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\obj\Debug\net6.0\EX18 - Area de Quadrado.csproj.AssemblyReference.cache
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\obj\Debug\net6.0\EX18 - Area de Quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\obj\Debug\net6.0\EX18 - Area de Quadrado.AssemblyInfoInputs.cache
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\obj\Debug\net6.0\EX18 - Area de Quadrado.AssemblyInfo.cs
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\obj\Debug\net6.0\EX18 - Area de Quadrado.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\obj\Debug\net6.0\EX18 - Area de Quadrado.dll
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\obj\Debug\net6.0\refint\EX18 - Area de Quadrado.dll
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\obj\Debug\net6.0\EX18 - Area de Quadrado.pdb
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\obj\Debug\net6.0\EX18 - Area de Quadrado.genruntimeconfig.cache
+C:\Users\Willian\Exercicios C#\EX18 - Area de Quadrado\obj\Debug\net6.0\ref\EX18 - Area de Quadrado.dll
